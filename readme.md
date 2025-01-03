@@ -64,7 +64,7 @@ To install the **Smart Tab Organizer** extension:
 - **Add Keyword**: Add a custom keyword to any category, allowing for a more personalized organization of tabs.
 - **Remove Keyword**: View and select a keyword to remove it from a category.
 
-![Manage Keywords](insert-image-link-here)
+![Manage Keywords](keyword.jpg)
 
 ---
 
@@ -116,15 +116,6 @@ We welcome contributions! If you'd like to help improve **Smart Tab Organizer**,
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-## Screenshots
-
-- **Organized Tabs**: View how tabs are grouped under different categories.
-- **Add and Remove Categories**: Create new categories or delete existing ones to tailor the organization to your needs.
-- **Search for Tabs**: Search for a tab by its URL or title keyword.
-- **Manage Keywords**: Add or remove custom keywords for better organization.
 
 ---
 
